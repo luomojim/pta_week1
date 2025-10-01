@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int total_price()
 {
 	float price = 0.0;
 	float total = 0.0;
