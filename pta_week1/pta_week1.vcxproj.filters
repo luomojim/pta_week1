@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="huanfang.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="inversion pair.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lannaluo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hello.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="idolcall.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="upc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="square_round.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n_to_ten.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten_to_n.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="float_n.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="heigh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="compare_float.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sixteen_to_ten.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="runnian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="avgint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="monkey_eat_peach.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="printf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="passby.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="log_tri.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="square_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="train_meet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isprime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="a_plus_b.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="chu3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="noprime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maxgcd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="jiecheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add_noprime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add_prime.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hanxin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="interleaved sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="report_nums.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="highest_score.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sumofoddnums.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="oddnums.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="num_jiecheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Digital sandglass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="n_jiecheng.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shopping_sell.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="helloworld.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="opptri.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stra_tri.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="avgscore.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arithmetic sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="astring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="plus_sub_mult.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rice_price.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ymd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game_score.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game_score_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="error.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ymd2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="aftertomorrow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="a_plus_b_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="total_price.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="season_switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="runnian_switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
