@@ -186,5 +186,59 @@
     <ClCompile Include="runnian_switch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="how_is_day.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="score_and_level.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="idiom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="level_nums.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="xiangxi_red_view.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="poker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="poker_color.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="poker_point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="score_split.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="month_day.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="month_day_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="score_split_five_switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="month_to_season.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fee_car.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="age_stage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="how_is_day_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find_class.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

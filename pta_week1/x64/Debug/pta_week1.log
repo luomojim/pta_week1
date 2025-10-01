@@ -1,2 +1,9 @@
-﻿  a_plus_b_2.cpp
-  pta_week1.vcxproj -> D:\code\c++\ptapia\pta_week1\x64\Debug\pta_week1.exe
+﻿  fee_car.cpp
+  month_to_season.cpp
+I:\code\github\pta_week1\pta_week1\fee_car.cpp(77,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  score_split_five_switch.cpp
+  正在生成代码...
+I:\code\github\pta_week1\pta_week1\month_to_season.cpp(40,1): warning C4715: “season::judge”: 不是所有的控件路径都返回值
+I:\code\github\pta_week1\pta_week1\fee_car.cpp(59,1): warning C4715: “fee::process_less3”: 不是所有的控件路径都返回值
+I:\code\github\pta_week1\pta_week1\fee_car.cpp(40,1): warning C4715: “fee::process”: 不是所有的控件路径都返回值
+  pta_week1.vcxproj -> I:\code\github\pta_week1\x64\Debug\pta_week1.exe
